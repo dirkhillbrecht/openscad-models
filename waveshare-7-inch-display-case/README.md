@@ -43,6 +43,13 @@ which should be printed cleanly by any decent 3D printer. You might want to use 
 ![Picture of oval left side button](img/2025-06-01.7874.R.Detailansicht-ovale-Tasten-800.jpg "Detail of oval left side button")  
 *Detail of oval left side button*
 
+## Related projects
+
+This design is also published on Printables where you can also find prerendered STL files.
+
+* [Case with oval buttons](https://www.printables.com/model/1318542-case-for-the-waveshare-7-inch-ips-hdmi-display-wit)
+* [Case with rectangular buttons](https://www.printables.com/model/1318554-case-for-the-waveshare-7-inch-ips-hdmi-display-wit)
+
 ![Picture of case](img/2025-06-01.7861.Gesamtansicht-mit-ovalen-Tasten-800.jpg "Case with display and oval buttons")  
 *Case with display and oval buttons*
 
