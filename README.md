@@ -10,6 +10,8 @@ This is the baseline version for the models published here.
 
 ## Projects
 
+* [Case for the Waveshare 7 inch IPS HDMI display with USB touch, audio and VGA connectors](waveshare-7-inch-display-case/README.md)
+
 ## License
 
 The license for the models published here is usually [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) unless specified differently for certain models.
